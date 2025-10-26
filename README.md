@@ -1,4 +1,4 @@
-# 🅰️ Angular 20 Blog
+# 🅰️ Angular Blog
 
 Mini blog démonstratif (Angular 20 standalone components, signals, reactive forms, guards, interceptors, Material UI).
 
